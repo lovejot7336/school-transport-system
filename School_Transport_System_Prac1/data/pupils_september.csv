@@ -1,0 +1,5 @@
+# pupilId,name,yearGroup,homeAddress,schoolId,guardianId,guardianName,guardianEmail,guardianPhone
+P3,Priya Nair,11,9 Mill Lane,HS2,G3,Anita Nair,anita.nair@example.com,07700555666
+P4,Callum Webb,12,21 Elm Street,HS1,G4,Diane Webb,diane.webb@example.com,07700777888
+P5,Bad Row Example,11,NA,HS1,G5,Test Guardian,test@example.com,07700999000
+P6,Freya Marsh,13,7 Riverside Walk,HS2,G6,Ollie Marsh,ollie.marsh@example.com,07700123123
